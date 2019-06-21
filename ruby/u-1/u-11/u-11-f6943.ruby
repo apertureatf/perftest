@@ -1,0 +1,1 @@
+10.times {|n|print " " * (10 - n)puts "*" * (2 * n + 1)}
