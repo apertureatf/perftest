@@ -1,0 +1,1 @@
+for (var i = 0; i < 10; i++) console.log (" ".repeat (10 - i) + "*".repeat (i * 2 + 1));
